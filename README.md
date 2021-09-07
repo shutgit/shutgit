@@ -1,6 +1,6 @@
 # ✨ Hi, I am Shut
 
-Hi, my name is Shut and I'm 18. I started Discord Bot development 4 year ago with developing Discord bots. 
+Hi, my name is Shut and I'm 18. I started Discord Bot development 4 year ago.
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=shutgit&color=dc143c"/>

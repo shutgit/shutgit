@@ -7,7 +7,7 @@ Hi, my name is Shut and I'm 18. I started Discord Bot development 4 year ago wit
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/669513018777796638" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665"></a>
+    <a href="https://discord.com/users/669513018777796638" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/669513018777796638"></a>
 </div>
 
 ## ⚡ Contact

@@ -1,4 +1,4 @@
-# ✨ Hi, I am Theark
+# ✨ Hi, I am Shut
 
 Hi, my name is Shut and I'm 18. I started Discord Bot development 4 year ago with developing Discord bots. 
 
